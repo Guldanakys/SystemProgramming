@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516614336 source:/home/guldana/Documents/lab1/task2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+	<errno.h>
+

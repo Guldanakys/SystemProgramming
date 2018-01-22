@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516563524 source:/home/guldana/Documents/lab1/task3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<fcntl.h>
+
